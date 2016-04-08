@@ -13,3 +13,4 @@ for (i = 0; i < 75; i++) {
     transform: 'rotate(' + Math.random() * 360 + 'deg) scale(' + Math.random() + ')'
   });
   $body.append($star);
+}
